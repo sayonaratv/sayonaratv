@@ -20,5 +20,4 @@ Frensh, German, English, Portuguese, Brazilian
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[![](https://visitcount.itsvg.in/api?id=sayonaratv&icon=2&color=12)](https://visitcount.itsvg.in) I'm not really great at writing introductions, so I asked [ChatGPT](https://openai.com/blog/chatgpt/
-[chatgpt]: https://openai.com/blog/chatgpt/) to help me out.
+[![](https://visitcount.itsvg.in/api?id=sayonaratv&icon=2&color=12)](https://visitcount.itsvg.in) I'm not really great at writing introductions, so I asked [ChatGPT](https://openai.com/blog/chatgpt/) to help me out.
