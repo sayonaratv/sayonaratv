@@ -25,7 +25,7 @@ Frensh, German, English, Portuguese, Brazilian
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Unknown's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruwin-dsc&show_icons=true)
+![Unknown's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayonaratv&show_icons=true)
 
 [![](https://visitcount.itsvg.in/api?id=sayonaratv&icon=2&color=12)](https://visitcount.itsvg.in)
 
