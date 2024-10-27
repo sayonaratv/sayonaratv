@@ -26,7 +26,6 @@ Frensh, German, English, Portuguese, Brazilian
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Unknown's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayonaratv&show_icons=true)
-![Unknown's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sayonaratv&theme=border=false)
 
 [![](https://visitcount.itsvg.in/api?id=sayonaratv&icon=2&color=12)](https://visitcount.itsvg.in)
 
