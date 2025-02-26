@@ -8,3 +8,4 @@ Open and searching for opportunities to work with our Discord team, they bring a
 
 With extensive experience as a Discord server owner, manager, and administrator, Unknown has successfully built and managed thriving online communities. They are skilled in overseeing server operations, moderating discussions, and implementing server rules to ensure a positive and engaging environment for all members. Their leadership and organizational abilities make them a valuable asset to any Discord team.
 
+Additionally, Unknown is a talented athlete excelling in multiple sports domains. Their dedication to physical fitness and teamwork translates into a strong work ethic and a commitment to achieving goals both on and off the field.
